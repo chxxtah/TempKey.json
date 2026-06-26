@@ -1,0 +1,16 @@
+[
+  {
+    "id": "6d95fal7c7e40bea",
+    "username": "dpmods",
+    "password": "dpmods",
+    "expiresAt": "2026-06-27",
+    "allowOffline": true
+  },
+  {
+    "id": "6d95fal7c7e40bea",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2026-06-27",
+    "allowOffline": false
+  }
+]
